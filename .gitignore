@@ -1,7 +1,13 @@
+# Due Big size and commonly used package we dont commit it on the github
 node_modules
 
+# Automatticaly managed by Nextjs framework
 .next
 
+# To store sensitive data like Credentials
 .env
 
+# Automatticaly managed by Nextjs framework
 .DS_Store
+
+package-lock.json
